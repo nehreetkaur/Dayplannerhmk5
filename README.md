@@ -39,10 +39,18 @@ Vs Code.
 
 [W3 schools](https://www.w3schools.com/jsref/jsref_gethours.asp)
 
-[Bootstrp](https://getbootstrap.com/docs/4.0/components/input-group/)
+[Bootstrap](https://getbootstrap.com/docs/4.0/components/input-group/)
+
+## Screenshots
+![Screenshot 1](images/1.png)
+
+![Screenshot 2](images/2.png)
+
+
+
 
 
 ### Links
 [GitHub Repository](https://github.com/nehreetkaur/Dayplannerhmk5)
 
-[Git Hub Deployed Application]()
+[Git Hub Deployed Application](https://nehreetkaur.github.io/Dayplannerhmk5/)
