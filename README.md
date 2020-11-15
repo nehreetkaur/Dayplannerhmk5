@@ -42,7 +42,7 @@ Vs Code.
 [Bootstrap](https://getbootstrap.com/docs/4.0/components/input-group/)
 
 ## Screenshots
-![Screenshot 1](images\1.png)
+![Screenshot 1](images/1.png)
 
 
 
